@@ -6,7 +6,10 @@ namespace Exercicio4
     class Program
     {
         static void Main(string[] args)
-        {
+        {                          
+                                    
+             
+             
              int i =0;
              string[] number1 = new string[i];
              string[] number2 = ReadLine().Split(' ');
