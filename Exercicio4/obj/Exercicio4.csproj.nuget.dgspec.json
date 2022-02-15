@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Priscila\\Desktop\\DesafioGFT\\Exercicio4\\Exercicio4.csproj": {}
+    "C:\\Users\\Priscila\\Desktop\\Exercicio4\\Exercicio4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Priscila\\Desktop\\DesafioGFT\\Exercicio4\\Exercicio4.csproj": {
+    "C:\\Users\\Priscila\\Desktop\\Exercicio4\\Exercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Priscila\\Desktop\\DesafioGFT\\Exercicio4\\Exercicio4.csproj",
+        "projectUniqueName": "C:\\Users\\Priscila\\Desktop\\Exercicio4\\Exercicio4.csproj",
         "projectName": "Exercicio4",
-        "projectPath": "C:\\Users\\Priscila\\Desktop\\DesafioGFT\\Exercicio4\\Exercicio4.csproj",
+        "projectPath": "C:\\Users\\Priscila\\Desktop\\Exercicio4\\Exercicio4.csproj",
         "packagesPath": "C:\\Users\\Priscila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Priscila\\Desktop\\DesafioGFT\\Exercicio4\\obj\\",
+        "outputPath": "C:\\Users\\Priscila\\Desktop\\Exercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Priscila\\AppData\\Roaming\\NuGet\\NuGet.Config",
