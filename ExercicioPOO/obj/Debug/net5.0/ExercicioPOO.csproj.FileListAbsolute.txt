@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\bin\Debug\net5.0\ExercicioPOO.exe
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\bin\Debug\net5.0\ExercicioPOO.deps.json
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\bin\Debug\net5.0\ExercicioPOO.runtimeconfig.json
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\bin\Debug\net5.0\ExercicioPOO.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\bin\Debug\net5.0\ExercicioPOO.dll
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\bin\Debug\net5.0\ref\ExercicioPOO.dll
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\bin\Debug\net5.0\ExercicioPOO.pdb
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.dll
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ref\ExercicioPOO.dll
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.pdb
+C:\Users\Priscila\Desktop\Teste 6- Pri\ExercicioPOO\obj\Debug\net5.0\ExercicioPOO.genruntimeconfig.cache
